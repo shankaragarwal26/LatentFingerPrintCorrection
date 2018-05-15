@@ -255,7 +255,7 @@ def train(loc, encoder_model):
         except Exception as e:
             pass
         folder_name = folder_name + "/"
-        orig_file_name = folder_name + "orig"
+        orig_file_name = folder_name + fpconst.ORIGINAL_FILE_NAME
         y = Y[i]
         np.save(orig_file_name, y)
         list = [0, 0, 0, 0, 0, 0]
