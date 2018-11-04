@@ -38,5 +38,5 @@ Dictionary based learning technique has given significant result, in contrast to
 ### Contacts:
 
 1. Shankar Lal Agarwal (shankar892011@gmail.com)
-2. Dr.Indrajit Mukherjee (imukherjee@bitmesra.ac.in)
+2. Anick Saha (anicksaha05@gmail.com)
 
